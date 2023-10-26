@@ -74,6 +74,29 @@ print(f"{Lalista}")
 
 
 
+# 4. Revisar que son los algoritmos de sorting, entender bubble-sort
+
+
+ - ¿que son los algoritmos de sorting?
+
+son procedimientos o métodos utilizados para organizar un conjunto de datos de manera sistemática. La tarea principal de un algoritmo de ordenamiento es reorganizar una lista de elementos (como números, palabras o cualquier otro tipo de datos) en un orden específico, generalmente en orden ascendente o descendente.
+
+
+
+ - entender bubble-sort
+
+Por lo que entendi, valga la redundacia, es un algoritmo de ordenamiento utilizado para ordenar los elementos de una lista. Va ordenanado los elementos "swapiando" cada uno. Este procedimiento se repite varias veces hasta que la lista este ordenada de menor a mayor.
+
+
+
+
+![image](https://github.com/EmpanadasCONGuaro/sobreviviendo_a_la_programacion_8/assets/142174506/cb84e8a2-2cd8-4534-80af-9e5720eaacef)
+
+
+
+# imagen que nanie pidio, pero sirve para entender mejor.
+
+
 
 
 #tengo que decir que este reto casi no me sale. Tuve que buscar varias ayudas incluidas de internet y de personas por que simplemente no entendia,  y si, estaba contra el tiempo :(
